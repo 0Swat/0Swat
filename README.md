@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Oskar Swat</h1>
+<h1 align="center">Hi 👋, I'm Oskar</h1>
 <h3 align="center">3rd year computer science student - specialising in algorithms and data structures</h3>
 
 <h3 align="left">Connect with me:</h3>
